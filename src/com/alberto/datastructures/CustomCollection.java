@@ -1,3 +1,5 @@
+package com.alberto.datastructures;
+
 public class CustomCollection {
     private Object data[] = null;
     private int length = 0;
