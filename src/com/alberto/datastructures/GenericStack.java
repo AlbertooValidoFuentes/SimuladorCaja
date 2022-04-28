@@ -1,3 +1,5 @@
+package com.alberto.datastructures;
+
 public class GenericStack<T> {
     private static final int CAPACIDAD_INICIAL = 5;
 
